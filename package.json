@@ -1,0 +1,18 @@
+{
+  "name": "real-time-web-app",
+  "version": "1.0.0",
+  "description": "web client of realtime app",
+  "author": "Rody10@mail.ru",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
