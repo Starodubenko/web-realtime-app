@@ -5,9 +5,14 @@
   "author": "Rody10@mail.ru",
   "license": "MIT",
   "dependencies": {
+    "bufferutil": "^3.0.3",
+    "moment": "^2.20.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "recharts": "^1.0.0-beta.7",
+    "socket.io": "^2.0.4",
+    "utf-8-validate": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
